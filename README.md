@@ -3,8 +3,6 @@ You need to install the following packages before running the code:
 
 pip install django
 
-pip install psycopg2
-
 pip install Pillow
 
 pip install uuid
